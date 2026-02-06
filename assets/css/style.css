@@ -10,6 +10,7 @@ body {
   font-family: 'Bethany Elingston';
   color: black;
   background: linear-gradient(90deg, #6C0938 50%, #042B40 100%);
+  overflow-x: hidden !important;
 }
 
 .heroLogo img {
